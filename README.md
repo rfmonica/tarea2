@@ -1,4 +1,6 @@
 # Tarea 1
+CAMBIOS CON GIT RESET SOFT
+
 
 Repositorio de ejemplo para mostrar el trabajo colaborativo y remoto.
 
@@ -6,8 +8,6 @@ Repositorio de ejemplo para mostrar el trabajo colaborativo y remoto.
 ## Authors
 
 - [monica@octokatherine](https://www.github.com/octokatherine)
-
-- [nail@octokatherine](https://www.github.com/octokatherine)
 
 
 ## Instalación
