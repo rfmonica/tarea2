@@ -1,5 +1,7 @@
 # Tarea 1
+accion2 
 CAMBIOS CON GIT RESET SOFT
+
 
 
 Repositorio de ejemplo para mostrar el trabajo colaborativo y remoto.
