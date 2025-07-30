@@ -1,5 +1,7 @@
 # Tarea 1
 
+tarea 5 creando commits
+
 CAMBIOS CON GIT RESET SOFT
 
 CAMBIOS CON GIT RESET HARD
