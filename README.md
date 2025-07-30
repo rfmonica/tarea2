@@ -1,4 +1,4 @@
-# Tarea 5 con git stash
+# Tarea 5 con git rebase
 
 
 CAMBIOS CON GIT RESET SOFT
